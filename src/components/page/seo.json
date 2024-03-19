@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_page_seos",
+  "info": {
+    "displayName": "Seo",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    },
+    "metaDescription": {
+      "type": "string"
+    },
+    "meta": {
+      "displayName": "meta",
+      "type": "component",
+      "repeatable": false,
+      "component": "page.meta"
+    },
+    "preventIndexing": {
+      "type": "boolean"
+    },
+    "structurData": {
+      "type": "json"
+    },
+    "metaImage": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

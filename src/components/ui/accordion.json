@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_ui_accordions",
+  "info": {
+    "displayName": "Accordion",
+    "icon": "stack"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    }
+  }
+}

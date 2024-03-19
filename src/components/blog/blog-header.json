@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_blog_blog_headers",
+  "info": {
+    "displayName": "BlogHeader"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "TimeCreated": {
+      "type": "date"
+    },
+    "ReadTime": {
+      "type": "integer"
+    }
+  }
+}
